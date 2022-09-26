@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes 🗺
 
 This challenge highlighted the following tools - Leaflet, HTML, CSS, and JavaScript. Throughout the course of the module we had to create a earthquake map with two different maps and the earthquake overlay. 
 
